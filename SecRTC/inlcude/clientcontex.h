@@ -1,0 +1,4 @@
+#ifndef CLIENTCONTEX_H
+#define CLIENTCONTEX_H
+
+#endif // CLIENTCONTEX_H
